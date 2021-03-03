@@ -1,2 +1,0 @@
-1. Pythonによる因果分析 因果推論・因果探索の実践入門
-https://book.mynavi.jp/ec/products/detail/id=115805
